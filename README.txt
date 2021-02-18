@@ -1,0 +1,1 @@
+Colocar pasta /textures e /shaders na diretoria do projecto de Visual Studio.
