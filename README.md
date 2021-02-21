@@ -1,1 +1,2 @@
-# Three-Dimensional-Vizualization-and-Animation
+# Three Dimensional Visualization and Animation
+This course introduced design and development techniques for 3D real-time interactive applications by using graphic APIs such as Modern OpenGL and WebGL. It includes the development of an immersive 3D game for mobile devices by using a low-cost VR glasses set. The course covers also the latest advances in GPU technology and their applications to simulation and computer games.
